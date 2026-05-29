@@ -6,9 +6,9 @@ website:
   title: "Project"
   navbar:
     left:
-      - href: index.html
+      - href: _site\Project\index.html
         text: Home
-      - href: about.html
+      - href: _site\Project\about.html
         text: About
       
 
