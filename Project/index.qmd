@@ -9,4 +9,4 @@ format:
 ---
 # Hello, World!  
 Welcome to my Quarto website.  
-![./images/IMG_5850.jpg]{width-"75%" fig-align="center"}
+![](./images/IMG_5850.jpg){width-"75%" fig-align="center"}
