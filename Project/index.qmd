@@ -1,7 +1,11 @@
 ---
-title: "Project"
+title: "Welcome to My Website"
+author: "Keily Perla"
+date: "`r Sys.Date()`"
+format:
+  html:
+    theme: journal
+    toc: true
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Hello, World!  
+Welcome to my Quarto website.  
