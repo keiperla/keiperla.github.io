@@ -4,7 +4,7 @@
     "href": "Project/index.html",
     "title": "Welcome to My Website",
     "section": "",
-    "text": "Hello, World!\nWelcome to my Quarto website.\n![./images/IMG_5850.jpg]{width-“75%” fig-align=“center”}"
+    "text": "Hello, World!\nWelcome to my Quarto website.\n{width-“75%” fig-align=“center”}"
   },
   {
     "objectID": "Project/about.html",
