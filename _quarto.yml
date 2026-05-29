@@ -6,8 +6,10 @@ website:
   title: "Project"
   navbar:
     left:
-      - href: index.qmd
+      - href: index.html
         text: Home
+      - href: about.html
+        text: About
       
 
 format:
