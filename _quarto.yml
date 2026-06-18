@@ -10,6 +10,8 @@ website:
         text: Home
       - href: Project/about.html
         text: About
+      - href: Project/projects.html
+        text: Projects
       
 
 format:
