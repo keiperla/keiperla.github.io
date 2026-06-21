@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Portfolio"
+  title: "My Portfolio"
   navbar:
     left:
       - href: Project/index.html

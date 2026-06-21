@@ -1,11 +1,42 @@
 ---
-title: "Welcome to My Website!"
+title: "Welcome to my website!"
+subtitle: "Keily Perla"
 echo: false
 ---
 
 
-**What you'll find while you're here**
+**What you'll find while you're here:**
 
 I'm currently a graduate student at Boston University, pursuing my master's degree in Applied Business Analytics. As you make your way through my website, you'll learn more about my educational and professional background. 
 
-![](./images/IMG_5850.jpg){width="50%" fig-align="left"}
+![](./images/IMG_5850.jpg){width="50%" fig-align="center"}
+
+
+
+**Out in the Wild**
+
+When I'm not on campus or in the office, here's where you might find me:
+
+- Traveling
+- Out for a run
+- Reading a book
+- Trying a new coffee spot
+
+
+
+::: columns
+
+::: {.column width="33%"}
+![](./images/IMG_6069.jpg){style="border-radius:60%;" fig-align="center" width="150"}
+:::
+
+::: {.column width="33%"}
+![](./images/IMG_3417.jpg){style="border-radius:60%;" fig-align="center" width="150"}
+:::
+
+::: {.column width="33%"}
+![](./images/IMG_6092 (1).jpg){style="border-radius:60%;" fig-align="center" width="150"}
+:::
+
+:::
+
