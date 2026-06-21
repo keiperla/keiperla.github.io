@@ -1,9 +1,17 @@
 ---
 title: "About"
+subtitle: Academic and Professional Background
 ---
 
-About this site
+## University of Connecticut - Bachelor's of Science in Engineering
 
-I began the pursuing a Master of Science in Applied Business Analytics to strengthen my data-driven decision making skills. By acquirung my Bachelor's degree in chemical engineering, I entered with a strong foundation in fluid mechanics, process kinetics, thermodynamics, and air pollution control. My goal is to use these degrees as a bridge between business development and the engineering mindset to pursue my interest in process improvement and optimization.
+
+## Straumann Group - Quality Assurance Biotech Co-op
+
+After aquiring my Bachelor's degree in chemical engineering...
+
+I entered with a strong foundation in fluid mechanics, process kinetics, thermodynamics, and air pollution control...
+
+My goal is to use these degrees as a bridge between business development and the engineering mindset to pursue my interest in process improvement and optimization.
 
 

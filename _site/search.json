@@ -2,15 +2,29 @@
   {
     "objectID": "Project/index.html",
     "href": "Project/index.html",
-    "title": "Welcome to My Website",
+    "title": "Welcome to My Website!",
     "section": "",
-    "text": "Hello, World!\nWelcome to my Quarto website.\n{width-“75%” fig-align=“center”}"
+    "text": "What you’ll find while you’re here I’m currently a graduate student at Boston University, pursuing my master’s degree in Applied Business Analytics. As you make your way through my website, you’ll learn more about my educational and professional background.\n{width-“75%” fig-align=“center”}"
   },
   {
     "objectID": "Project/about.html",
     "href": "Project/about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About this site\nI am currently pursuing a Master of Science in Applied Business Analytics to strengthen my data-driven decision making skills. By acquirung my Bachelor’s degree in chemical engineering, I entered with a strong foundation in fluid mechanics, process kinetics, thermodynamics, and air pollution control. My goal is to use these degrees as a bridge between business development and the engineering mindset to pursue my interest in process improvement and optimization."
+  },
+  {
+    "objectID": "Project/contact.html",
+    "href": "Project/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am currently based in the Boston, MA area. For inquiries, please reach out through one of the following email adresses\nPersonal: keilyperla36@gmail.com Academic: keiperla@bu.edu"
+  },
+  {
+    "objectID": "Project/about.html#straumann-group---quality-assurance-biotech-co-op",
+    "href": "Project/about.html#straumann-group---quality-assurance-biotech-co-op",
+    "title": "About",
+    "section": "Straumann Group - Quality Assurance Biotech Co-op",
+    "text": "Straumann Group - Quality Assurance Biotech Co-op\nAfter aquiring my Bachelor’s degree in chemical engineering\nI entered with a strong foundation in fluid mechanics, process kinetics, thermodynamics, and air pollution control.\nMy goal is to use these degrees as a bridge between business development and the engineering mindset to pursue my interest in process improvement and optimization."
   }
 ]

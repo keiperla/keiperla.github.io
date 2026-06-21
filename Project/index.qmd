@@ -1,8 +1,11 @@
 ---
 title: "Welcome to My Website!"
+echo: false
 ---
 
-# What you'll find while you're here  
+
+**What you'll find while you're here**
+
 I'm currently a graduate student at Boston University, pursuing my master's degree in Applied Business Analytics. As you make your way through my website, you'll learn more about my educational and professional background. 
 
 ![](./images/IMG_5850.jpg){width-"75%" fig-align="center"}

@@ -12,6 +12,8 @@ website:
         text: About
       - href: Project/projects.html
         text: Projects
+      - href: Project/contact.html
+        text: Contact
       
 
 format:
