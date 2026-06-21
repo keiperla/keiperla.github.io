@@ -1,10 +1,23 @@
 ---
 title: "Projects"
 ---
+My academic journey has encouraged my to explore and benefit from a variety of team projects. Through collaboration, I've been able to strengthen my communication, leadership, project management, and technical skills. I've found the following projects to be particularly educational and contructive forms of hands-on coursework application.
+
 
 ## Data Science & Business Analytics Job Market Trends in 2024
 **Data-driven analysis of business analytics, data science, and machine learning trends found in 2024 job postings**
 
+Upon my intriduction to big data and cloud analytics for business, I explored job market trends amongst industries alongside a group of my classmates. 
+
+## Microbrewery Business Plan in South End, Boston
+**The development of a managerial report to propose a microbrewery business plan for an existing restaurant in the Boston area**
+
+For a quantitative and qualitative decision making class, we formed groups to apply our business structure coursework to a real-life scenario.
 
 ## Engineering Senior Design Project
 **Decarbonization of the UCONN Campus by 2030**
+
+During the senior year of my undergraduate degree, I formalized a plan to help the campus reach carbon neutrality with two of my classmates. At the time, UConn was emiting approximately 108,000 metric tons of carbon dioxide per year. 
+
+Our design project was chosen because of our shared interest in sustainability and how clean energy could be introduced in a cost effective way. Our solution combined the use of renewable energy sources and conservation policies. We created an energy balance and a mass balance to outline a net-zero carbon emmision future.
+

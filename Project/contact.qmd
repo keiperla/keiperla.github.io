@@ -1,12 +1,27 @@
 ---
-title: "Contact"
+title: "Contact Me"
+about:
+    template: jolla
+    links: 
+      - text: Personal Email
+        icon: envelope
+        href: mailto:keilyperla36@gmail.com
+      - text: Student Email
+        icon: envelope
+        href: mailto:keiperla@bu.edu
+      - text: LinkedIn
+        icon: linkedin 
+        href: www.linkedin.com/in/keily-perla-6505222b3
+      - text: Resume
+        icon: file-text
+        href: Keily_Perla_Resume.pdf 
 ---
 
-**I am currently based in the Boston, MA area. For inquiries, please reach out through one of the following email adresses**
+Please use one of the following links to connect with me:
+
+Feel free to send me an email, add me on LinkedIn, or download my up-to-date resume.
+
+**Thank you for stopping by my Quarto website!**
     
-Personal: keilyperla36@gmail.com
-
-Academic: keiperla@bu.edu
-
 
  
