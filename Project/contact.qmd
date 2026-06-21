@@ -14,8 +14,10 @@ about:
         href: www.linkedin.com/in/keily-perla-6505222b3
       - text: Resume
         icon: file-text
-        href: Keily_Perla_Resume.pdf 
+        href: Project/Keily_Perla_Resume.pdf 
 ---
+
+![](images\IMG_6096.PNG){style="border-radius:50%;" fig-align="center" width="100"}
 
 Please use one of the following links to connect with me:
 
