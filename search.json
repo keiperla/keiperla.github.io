@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "Project/index.html",
+    "href": "Project/index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "What you’ll find while you’re here:\nI’m currently a graduate student at Boston University, pursuing my master’s degree in Applied Business Analytics. As you make your way through my website, you’ll learn more about my educational and professional background.\n\n\n\n\n\nOut in the Wild\nWhen I’m not on campus or in the office, here’s where you might find me:\nTraveling, running, reading, or trying a new coffee spot!"
+  },
+  {
+    "objectID": "Project/contact.html",
+    "href": "Project/contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Please use one of the following links to connect with me:\nFeel free to send me an email, add me on LinkedIn, or download my up-to-date resume.\nThank you for stopping by my Quarto website!"
+  },
+  {
     "objectID": "Project/projects.html",
     "href": "Project/projects.html",
     "title": "Projects",
@@ -26,13 +40,6 @@
     "title": "Projects",
     "section": "Engineering Senior Design Project",
     "text": "Engineering Senior Design Project\nDecarbonization of the UCONN Campus by 2030\nDuring the senior year of my undergraduate degree, I formalized a plan to help the campus reach carbon neutrality with two of my classmates. At the time, UConn was emiting approximately 108,000 metric tons of carbon dioxide per year.\nOur design project was chosen because of our shared interest in sustainability and how clean energy could be introduced in a cost effective way. Our solution combined the use of renewable energy sources and conservation policies. We created an energy balance and a mass balance to outline a net-zero carbon emmision future."
-  },
-  {
-    "objectID": "Project/contact.html",
-    "href": "Project/contact.html",
-    "title": "Contact Me",
-    "section": "",
-    "text": "Please use one of the following links to connect with me:\nFeel free to send me an email, add me on LinkedIn, or download my up-to-date resume.\nThank you for stopping by my Quarto website!"
   },
   {
     "objectID": "Project/about.html",
@@ -68,12 +75,5 @@
     "title": "About Me",
     "section": "The Hole in the Wall Gang Camp",
     "text": "The Hole in the Wall Gang Camp\nVolunteering and Fundraising\nSince my junior year of college, I began to spend a lot of my spare time with the Hole in the Wall Gang Camp. It’s a summer camp that provides “a different kind of healing” to children with serious illnesses and their families. I have the pleasure of meeting the kindest people from all different paths of life. Though I’m proud of all my accomplishments, the time I spend at camp is by far my proudest."
-  },
-  {
-    "objectID": "Project/index.html",
-    "href": "Project/index.html",
-    "title": "Welcome to my website!",
-    "section": "",
-    "text": "What you’ll find while you’re here:\nI’m currently a graduate student at Boston University, pursuing my master’s degree in Applied Business Analytics. As you make your way through my website, you’ll learn more about my educational and professional background.\n\n\n\n\n\nOut in the Wild\nWhen I’m not on campus or in the office, here’s where you might find me:\nTraveling, running, reading, or trying a new coffee spot!"
   }
 ]
