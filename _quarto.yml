@@ -9,11 +9,11 @@ website:
       - href: Project/index.html
         text: Home
       - href: Project/about.html
-        text: About
+        text: About Me
       - href: Project/projects.html
         text: Projects
       - href: Project/contact.html
-        text: Contact Me
+        text: Contact
       
 
 format:
