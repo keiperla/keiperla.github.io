@@ -7,12 +7,12 @@ My academic journey has encouraged my to explore and benefit from a variety of t
 ## Data Science & Business Analytics Job Market Trends in 2024
 **Data-driven analysis of business analytics, data science, and machine learning trends found in 2024 job postings**
 
-Upon my intriduction to big data and cloud analytics for business, I explored job market trends amongst industries alongside a group of my classmates. 
+Upon my intriduction to big data and cloud analytics for business, I explored job market trends amongst industries alongside a group of my classmates. I learned and applied a variety of new technical skills as I navigated AWS academy, Visual Studio Code, and GitHub for the first time. 
 
 ## Microbrewery Business Plan in South End, Boston
 **The development of a managerial report to propose a microbrewery business plan for an existing restaurant in the Boston area**
 
-For a quantitative and qualitative decision making class, we formed groups to apply our business structure coursework to a real-life scenario.
+For a quantitative and qualitative decision making class, we formed groups to apply our business structure coursework to a real-life scenario. It was my first project in a new field, and the adjustment from engineering to business coursework was a welcomed challenge.
 
 ## Engineering Senior Design Project
 **Decarbonization of the UCONN Campus by 2030**
