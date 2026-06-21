@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "Project/index.html",
-    "href": "Project/index.html",
-    "title": "Welcome to My Website!",
-    "section": "",
-    "text": "What you’ll find while you’re here\nI’m currently a graduate student at Boston University, pursuing my master’s degree in Applied Business Analytics. As you make your way through my website, you’ll learn more about my educational and professional background."
-  },
-  {
-    "objectID": "Project/contact.html",
-    "href": "Project/contact.html",
-    "title": "Contact Me",
-    "section": "",
-    "text": "Please use one of the following links to connect with me:\nFeel free to send me an email, add me on LinkedIn, or download my up-to-date resume.\nThank you for stopping by my Quarto website!"
-  },
-  {
     "objectID": "Project/projects.html",
     "href": "Project/projects.html",
     "title": "Projects",
@@ -42,6 +28,13 @@
     "text": "Engineering Senior Design Project\nDecarbonization of the UCONN Campus by 2030\nDuring the senior year of my undergraduate degree, I formalized a plan to help the campus reach carbon neutrality with two of my classmates. At the time, UConn was emiting approximately 108,000 metric tons of carbon dioxide per year.\nOur design project was chosen because of our shared interest in sustainability and how clean energy could be introduced in a cost effective way. Our solution combined the use of renewable energy sources and conservation policies. We created an energy balance and a mass balance to outline a net-zero carbon emmision future."
   },
   {
+    "objectID": "Project/contact.html",
+    "href": "Project/contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Please use one of the following links to connect with me:\nFeel free to send me an email, add me on LinkedIn, or download my up-to-date resume.\nThank you for stopping by my Quarto website!"
+  },
+  {
     "objectID": "Project/about.html",
     "href": "Project/about.html",
     "title": "About",
@@ -68,5 +61,12 @@
     "title": "About",
     "section": "Straumann Group",
     "text": "Straumann Group\nQuality Assurance Biotech Co-op\nAfter aquiring my Bachelor’s degree in chemical engineering…\nI entered with a strong foundation in fluid mechanics, process kinetics, thermodynamics, and air pollution control…\nMy goal is to use these degrees as a bridge between business development and the engineering mindset to pursue my interest in process improvement and optimization."
+  },
+  {
+    "objectID": "Project/index.html",
+    "href": "Project/index.html",
+    "title": "Welcome to My Website!",
+    "section": "",
+    "text": "What you’ll find while you’re here\nI’m currently a graduate student at Boston University, pursuing my master’s degree in Applied Business Analytics. As you make your way through my website, you’ll learn more about my educational and professional background."
   }
 ]
