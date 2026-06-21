@@ -1,3 +1,10 @@
 ---
 title: "Projects"
 ---
+
+## Data Science & Business Analytics Job Market Trends in 2024
+**Data-driven analysis of business analytics, data science, and machine learning trends found in 2024 job postings**
+
+
+## Engineering Senior Design Project
+**Decarbonization of the UCONN Campus by 2030**
