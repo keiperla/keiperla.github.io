@@ -3,10 +3,15 @@ title: "About"
 subtitle: Academic and Professional Background
 ---
 
-## University of Connecticut - Bachelor's of Science in Engineering
+## Boston University
+**Master of Science in Applied Business Analytics** - In Progress
+
+## University of Connecticut
+**Bachelor of Science in Engineering**
 
 
-## Straumann Group - Quality Assurance Biotech Co-op
+## Straumann Group
+**Quality Assurance Biotech Co-op**
 
 After aquiring my Bachelor's degree in chemical engineering...
 
