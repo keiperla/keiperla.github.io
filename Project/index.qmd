@@ -17,12 +17,7 @@ I'm currently a graduate student at Boston University, pursuing my master's degr
 
 When I'm not on campus or in the office, here's where you might find me:
 
-- Traveling
-- Out for a run
-- Reading a book
-- Trying a new coffee spot
-
-
+Traveling, running, reading, or trying a new coffee spot!
 
 ::: columns
 
@@ -36,6 +31,22 @@ When I'm not on campus or in the office, here's where you might find me:
 
 ::: {.column width="33%"}
 ![](./images/IMG_6092 (1).jpg){style="border-radius:60%;" fig-align="center" width="150"}
+:::
+
+:::
+
+::: columns
+
+::: {.column width="33%"}
+![](./images/IMG_5772.jpg){style="border-radius:60%;" fig-align="center" width="150"}
+:::
+
+::: {.column width="33%"}
+![](./images/IMG_5776.jpg){style="border-radius:60%;" fig-align="center" width="150"}
+:::
+
+::: {.column width="33%"}
+![](./images/IMG_6077.jpg){style="border-radius:60%;" fig-align="center" width="150"}
 :::
 
 :::
