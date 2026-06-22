@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "Project/Perla_Keily_Resume.pdf"
 
 website:
   title: "My Portfolio"
