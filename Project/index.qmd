@@ -5,7 +5,7 @@ echo: false
 ---
 
 
-**What you'll find while you're here:**
+## What you'll find while you're here:
 
 I'm currently a graduate student at Boston University, pursuing my master's degree in Applied Business Analytics. As you make your way through my website, you'll learn more about my educational and professional background. 
 
@@ -13,7 +13,7 @@ I'm currently a graduate student at Boston University, pursuing my master's degr
 
 
 
-**Out in the Wild**
+## Out in the Wild
 
 When I'm not on campus or in the office, here's where you might find me:
 
