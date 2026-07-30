@@ -24,7 +24,7 @@ format:
       - cosmo
       - brand
       - Project\custom.scss
-    css: styles.css
+    css: Project\custom.scss
     toc: true
 
 
